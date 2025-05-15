@@ -73,14 +73,6 @@ superstore-sales-dashboard/
 
 ---
 
-## ✅ Next Steps
-
-- Add customer segmentation (e.g., RFM analysis)
-- Incorporate forecasting (e.g., monthly sales prediction)
-- Improve visuals with Plotly or Power BI
-
----
-
 ## 📌 Author
 
 Jean Patrick Alcolea Cauich  
