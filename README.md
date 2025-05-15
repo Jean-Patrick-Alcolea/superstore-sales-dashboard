@@ -68,7 +68,7 @@ superstore-sales-dashboard/
 - Open `.ipynb` files in Jupyter
 - OR:  
   ```
-  streamlit run app/app.py
+  streamlit run app/streamlit_app.py
   ```
 
 ---
