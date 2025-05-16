@@ -45,18 +45,6 @@ This project explores the **Superstore** dataset to analyze sales, profit, and c
 
 ---
 
-## 🚀 Project Structure
-
-superstore-sales-dashboard/
-├── data/ # raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks for cleaning, EDA, KPIs
-├── visuals/ # charts and dashboard screenshots
-├── app/ # (optional) Streamlit dashboard
-├── README.md
-├── requirements.txt
-
-
----
 
 ## 📂 How to Run
 
