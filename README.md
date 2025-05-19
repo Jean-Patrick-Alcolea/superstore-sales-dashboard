@@ -36,7 +36,6 @@ This project explores the **Superstore** dataset to analyze sales, profit, and c
 
 ## 📈 Key Insights (examples)
 
-> Replace with actual findings when done
 
 - The **West region** generates the most sales but has the **lowest profit margin**
 - **Office Supplies** are sold in large volumes but with minimal profit
